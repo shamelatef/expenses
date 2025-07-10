@@ -1,0 +1,9 @@
+{
+    "name": "Expense Tracker",
+    "short_name": "Expenses",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#f5f5f5",
+    "theme_color": "#4a6fa5",
+    "description": "An offline-capable monthly expense tracker"
+}
